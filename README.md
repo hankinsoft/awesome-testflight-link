@@ -76,6 +76,7 @@ _✅ These 173 apps are currently accepting new testers! Click the links to join
 | Graphite: Photo to Sketch App beta | [https://testflight.apple.com/join/gRhGuXzI](https://testflight.apple.com/join/gRhGuXzI) | Y | 2025-12-22 |
 | GroupMe | [https://testflight.apple.com/join/6CcTotfX](https://testflight.apple.com/join/6CcTotfX) | Y | 2025-12-22 |
 | Hadge | [https://testflight.apple.com/join/rFLkfNSu](https://testflight.apple.com/join/rFLkfNSu) | Y | 2026-03-10 |
+| HankyDoodle | [https://testflight.apple.com/join/f3fgN8u4](https://testflight.apple.com/join/f3fgN8u4) | Y | 2026-05-12 |
 | Health Export | [https://testflight.apple.com/join/g5FcLFJQ](https://testflight.apple.com/join/g5FcLFJQ) | Y | 2025-12-22 |
 | Herald: Latest News | [https://testflight.apple.com/join/pkrdVu0n](https://testflight.apple.com/join/pkrdVu0n) | Y | 2026-04-13 |
 | HexT | [https://testflight.apple.com/join/ixTrfIgF](https://testflight.apple.com/join/ixTrfIgF) | Y | 2026-04-17 |
